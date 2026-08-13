@@ -1,5 +1,6 @@
 #Cmd Yazın
 npm install
+npm install express socket.io
 #OLMUYOSA
 cd "Novapad Nexus"
 npm install
