@@ -6,4 +6,4 @@ cd "Novapad Nexus"
 npm install
 #BAŞLAT
 node server.js
-#Pytonla Çalışmaz!!!
+#Pytona Gerek Yok!!!
